@@ -1,0 +1,6 @@
+{
+  "name": "dygraphs",
+  "homepage": "https://github.com/danvk/dygraphs",
+  "version": "1.0.1",
+  "main": "dygraph-combined.min.js"
+}
